@@ -1,4 +1,9 @@
+Please check our paper [Wearable Sensor-Based Human Activity Recognition with Transformer Model](https://www.mdpi.com/1424-8220/22/5/1911) for more details.
 
+![Tag](https://img.shields.io/github/v/tag/markub3327/HAR-Transformer)
+[![Issues](https://img.shields.io/github/issues/markub3327/HAR-Transformer)](https://github.com/markub3327/HAR-Transformer/issues)
+![Commits](https://img.shields.io/github/commit-activity/w/markub3327/HAR-Transformer)
+![Size](https://img.shields.io/github/repo-size/markub3327/HAR-Transformer)
 
 ## Description
 
@@ -15,4 +20,8 @@ The Transformer for Human Activity Recognition operates in sequence-to-sequence 
 </p>
 
 
-**Frameworks:** TensorFlow, NumPy, Pandas, Scikit-learn, WanDB
+**Dependencies:** TensorFlow, NumPy, Pandas, Scikit-learn, WanDB
+
+---
+
+Work originally done by: https://github.com/markub3327/HAR-Transformer
