@@ -8,7 +8,11 @@ The Transformer for Human Activity Recognition operates in sequence-to-sequence 
 
 [KU-HAR](https://www.kaggle.com/datasets/niloy333/kuhar?resource=download)
 
+## Model
 
+<p align="center">
+  <img src="model.png" style="background-color: white;">
+</p>
 
 
 **Frameworks:** TensorFlow, NumPy, Pandas, Scikit-learn, WanDB
